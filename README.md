@@ -13,4 +13,4 @@ For achieving the desired classification. The following steps have been performe
 6.Model Building & training
 
 
-After performing the model building for multiple times, Reasonably accurate classification has been carried out
+After performing the model building for multiple times, model with reasonably accuracy has been obtained.
